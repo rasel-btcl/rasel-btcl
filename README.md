@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Rasel Rana – Portfolio
 
-<!--
-**rasel-btcl/rasel-btcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Rasel Rana**, an **Engineer at BTCL**.  
+I work on telecom, networking, and IT projects, and I enjoy exploring modern technologies such as Docker, Apache NiFi, Kafka, and cloud solutions.  
 
-Here are some ideas to get you started:
+This portfolio gives a short overview of my background, skills, and work areas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+---
+
+## 📈 Career Highlights
+
+---
+
+## 📫 Contact Me
+- 📧 Email: **raselrana.btcl@gmail.com**  
+- 🌐 GitHub: [github.com/rasel-btcl](https://github.com/rasel-btcl)  
+- 🏢 Workplace: **BTCL**  
+
+---
+
+⭐ *Thanks for visiting my portfolio!*
