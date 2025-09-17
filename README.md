@@ -1,9 +1,9 @@
 # 👨‍💻 Rasel Rana – Portfolio
 
 Hi, I'm **Rasel Rana**, an **Engineer at BTCL**.  
-I work on telecom, networking, and IT projects, and I enjoy exploring modern technologies such as Docker, Apache NiFi, Kafka, and cloud solutions.  
+I work on telecom, networking, and IT projects, and I enjoy exploring modern technologies.  
 
-This portfolio gives a short overview of my background, skills, and work areas.  
+This portfolio provides a short overview of my background, skills, and work areas.  
 
 ---
 
@@ -22,4 +22,4 @@ This portfolio gives a short overview of my background, skills, and work areas.
 
 ---
 
-⭐ *Thanks for visiting my portfolio!*
+⭐ *Thank you for visiting my portfolio!*
