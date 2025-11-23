@@ -16,7 +16,7 @@ This portfolio provides a short overview of my background, skills, and work area
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **rasel.rana@btcl.gov.bd**  
+- 📧 Email: **raselrana.btcl@gmail.com**  
 - 🌐 GitHub: [github.com/rasel-btcl](https://github.com/rasel-btcl)  
 - 🏢 Workplace: **BTCL**  
 
